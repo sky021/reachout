@@ -1,0 +1,21 @@
+{
+  "full_name": "Akash Agrawal",
+  "short_name": "Akash",
+  "email": "agrawalakash021@gmail.com",
+  "phone": "480-589-7445",
+  "location": "Tempe, AZ (open to relocation)",
+  "linkedin_url": "https://www.linkedin.com/in/akashagrawal021",
+  "portfolio_url": "https://akashagrawal.dev",
+  "role_focus": "Software Engineer / AI Engineer",
+  "availability": "open to relocation",
+  "subject_template": "Interested in Software/AI opportunities at {company}",
+  "intro_paragraph": "I hope you're doing well. My name is Akash Agrawal. I completed my M.S. in Computer Science at Arizona State University in December 2025, and I currently work as a Software Engineer focused on AI systems. I'm reaching out because I'm interested in opportunities at {company}.",
+  "experience_paragraph": "At NewsGenie, I built a real-time protection service that blocked 96/100 scrapers with sub-second access revocation (FastAPI, React, MongoDB, Redis, AWS KMS), and a multi-agent pipeline that produced 34 AI courses totaling 280+ hours. Previously at ASU, I cut a data-analysis cycle from 40 hours to 2 hours with a deep learning pipeline on AWS Lambda and S3, and at LTIMindtree I shipped production systems for Citi and Avery Dennison spanning middleware, CRM/MDM, and CI/CD.",
+  "ask_paragraph": "I'm currently seeking full-time Software Engineer and AI Engineer roles and am open to relocation. I'd be glad to discuss how I could contribute to the team at {company}. If you're not the right person, I'd appreciate any guidance on who I should reach out to.",
+  "closing_paragraph": "I've attached my resume for your reference.",
+  "attachments": {
+    "resume": "Akash_Agrawal.pdf",
+    "masters_transcript": null,
+    "bachelors_transcript": null
+  }
+}

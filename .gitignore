@@ -1,0 +1,33 @@
+# Secrets
+.env
+*.env
+secrets.txt
+credentials.txt
+app_password.txt
+
+# Recipient lists and logs
+MailList.csv
+recipients*.csv
+dummy_recipients*.csv
+email_send_log.csv
+*.log
+
+# Allow safe sample CSV
+!MailList_sample.csv
+
+# Personal documents
+*.pdf
+*.docx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
